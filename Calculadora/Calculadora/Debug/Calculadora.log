@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\sebas\documents\github\programacion_2_sept16\prog2sept16\calculadora\calculadora\source.cpp(129): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Calculadora.vcxproj -> C:\Users\Sebas\Documents\GitHub\Programacion_2_Sept16\Prog2Sept16\Calculadora\Debug\Calculadora.exe
+  Calculadora.vcxproj -> C:\Users\Sebas\Documents\GitHub\Programacion_2_Sept16\Prog2Sept16\Calculadora\Debug\Calculadora.pdb (Partial PDB)
