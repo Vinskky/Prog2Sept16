@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\sebas\documents\visual studio 2015\projects\test\test\source.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sebas\documents\visual studio 2015\projects\test\test\source.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Test.vcxproj -> C:\Users\Sebas\Documents\Visual Studio 2015\Projects\Test\Debug\Test.exe
+  Test.vcxproj -> C:\Users\Sebas\Documents\Visual Studio 2015\Projects\Test\Debug\Test.pdb (Partial PDB)
