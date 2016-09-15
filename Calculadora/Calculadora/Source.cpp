@@ -124,7 +124,7 @@ int main()
 				cout << "Now introduce the second number: " << endl;
 				cin >> n2;
 
-				if ((int)n1 % 2 == 0)
+				if (n1 / (int)n1 == 1)
 				{
 					result = module(n1, n2);
 					cout << n1 << " % " << n2 << " = " << result << endl;
