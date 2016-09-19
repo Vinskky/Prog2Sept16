@@ -50,13 +50,13 @@ int main()
 		double result = 0;
 
 		cout << "Welcome What operation do you want to do: " << endl
-			<< "press (1): If you want to do + " << endl
-			<< "press (2): If you want to  do - " << endl  
-			<< "press (3): If you want to do * " << endl
-			<< "press (4): If you want to do / " << endl
-			<< "press (5): If you want to do % " << endl
-			<< "press (6): IF you want to do 2^y " << endl
-			<< "press (7): to exit" << endl;
+			 << "press (1): If you want to do + " << endl
+			 << "press (2): If you want to  do - " << endl  
+			 << "press (3): If you want to do * " << endl
+			 << "press (4): If you want to do / " << endl
+			 << "press (5): If you want to do % " << endl
+			 << "press (6): IF you want to do 2^y " << endl
+			 << "press (7): to exit" << endl;
 
 		cin >> var;
 		switch (var)
@@ -112,7 +112,7 @@ int main()
 
 				result = division(n1, n2);
 
-				cout << n1 << " + " << n2 << " = " << result << endl;
+				cout << n1 << " / " << n2 << " = " << result << endl;
 				Sleep(1000);
 
 				break;
@@ -124,7 +124,7 @@ int main()
 				cout << "Now introduce the second number: " << endl;
 				cin >> n2;
 
-				if (n1 / (int)n1 == 1)
+				if (n1 / (int)n1 == 1 && n2 / (int) n2 == 1)
 				{
 					result = module(n1, n2);
 					cout << n1 << " % " << n2 << " = " << result << endl;
@@ -132,7 +132,7 @@ int main()
 				}
 				else
 				{
-					cout << "Your first number must be an integer!" << endl;
+					cout << "Your numbers must be an integer!" << endl;
 					Sleep(1000);
 				}
 				
