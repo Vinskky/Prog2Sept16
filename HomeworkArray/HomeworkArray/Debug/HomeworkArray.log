@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+c:\users\sebas\documents\github\programacion_2_sept16\prog2sept16\homeworkarray\homeworkarray\source1.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HomeworkArray.vcxproj -> C:\Users\Sebas\Documents\GitHub\Programacion_2_Sept16\Prog2Sept16\HomeworkArray\Debug\HomeworkArray.exe
+  HomeworkArray.vcxproj -> C:\Users\Sebas\Documents\GitHub\Programacion_2_Sept16\Prog2Sept16\HomeworkArray\Debug\HomeworkArray.pdb (Partial PDB)
